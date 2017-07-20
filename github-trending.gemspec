@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'thor',        '~> 0.19.1'
   spec.add_dependency 'mechanize',   '~> 2.7.2'
-  spec.add_dependency 'addressable', '~> 2.3.6'
+  spec.add_dependency 'addressable', '~> 2.4'
 
   spec.add_development_dependency 'bundler', '~> 1.6'
   spec.add_development_dependency 'rake'
